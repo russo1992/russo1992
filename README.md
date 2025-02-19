@@ -1,16 +1,43 @@
-## Hi there 👋
+# 💡 Sobre Mim
 
-<!--
-**russo1992/russo1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Me chamo **Lucas**, tenho 32 anos e sou **Analista de Teste e Qualidade**.  
 
-Here are some ideas to get you started:
+🚀 Minha paixão é garantir a qualidade do software, explorando **testes manuais, automatizados e de performance** para entregar produtos robustos e confiáveis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologias & Habilidades  
+
+📌 **Linguagens:**  
+- JavaScript  
+
+📌 **Qualidade & Testes:**  
+- Planejamento: **Mapa Mental, User Story (DoR, DoD, Critérios de Aceitação), Plano de Testes**  
+- Execução: **Cenários de Testes, Casos de Testes, Testes Exploratórios**  
+- Automação: **Cypress (Front-end), Testes de API (Back-end)**  
+- Performance: **Testes não funcionais com K6**  
+- Relatórios: **Registro de bugs, sugestões de melhorias, relatórios de testes**  
+
+📌 **Banco de Dados:**  
+- Relacional & Não Relacional  
+
+📌 **Metodologias Ágeis:**  
+- Scrum Team, Kanban  
+
+📌 **Sistemas Operacionais:**  
+- Linux, Windows  
+
+📌 **Versionamento & Colaboração:**  
+- Git, GitHub, GitLab  
+
+---
+
+## 📈 Em constante evolução!  
+
+🔎 Estou sempre buscando aprimorar minhas habilidades e acompanhar as **tendências do mercado**.  
+🎯 Aberto a **novos desafios e oportunidades** para expandir meu conhecimento e impactar positivamente projetos de tecnologia.  
+
+📩 Vamos nos conectar e explorar novas possibilidades juntos!  
+
+---
+
